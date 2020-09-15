@@ -1,6 +1,6 @@
 # Welcome to my Web Zone
 
-I'm James, and I write C++ at a big internet company.  For fun, I like to work on various projects, on things like real time 3D rendering,
+Hi, I'm James, and I write C++ at a big internet company.  For fun, I like to work on various projects, spanning real time 3D rendering,
 language learning, and web technologies.
 
 I also have a blog, although it's pretty barren right now: https://caracal.la
