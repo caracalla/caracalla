@@ -15,4 +15,4 @@ I also have a blog, although it's pretty barren right now: https://caracal.la
 * [note-to-self](https://github.com/caracalla/note-to-self) - personal documentation
 
 ## Everything Else
-...is garbage and you shouldn't look at it.
+...is garbage and you shouldn't look at it 😃
