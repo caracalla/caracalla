@@ -1,9 +1,9 @@
 # Welcome to my Web Zone
 
-Hi, I'm James, and I write C++ at a big internet company.  For fun, I like to work on various projects, spanning real time 3D rendering,
+Hi, I'm James, and I write C++, sometimes at big internet companies.  For fun, I like to work on various projects, spanning real time 3D rendering,
 language learning, and web technologies.
 
-I also have a blog, although it's pretty barren right now: https://caracal.la
+I also have a blog, although it's pretty barren right now: https://caracalla.github.io/blog
 
 ## Projects
 * [buffdog](https://github.com/caracalla/buffdog) - A real time 3D software renderer in C++ whose only dependency is SDL, which handles input and outputting the final rendered image to the screen.  It's also kind of a game engine in progress.
